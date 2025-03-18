@@ -86,11 +86,11 @@
 
    • Drag Order Total to the Y-Axis well.
 
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/080c3cbe6fc21345bb3ec4562ce6c027b490572a/Screenshot%2010.png)
+
 # 3. Resize and Position:
 
    • Resize the Line Chart and position it below the Column Chart, next to the Table Visualization in the center of the canvas.
-
-![image_alt](https://github.com/DSgenes/Executive-Summary/blob/63a676670f8fb5b9500b726f9fabb67ae2250b65/Screenshot%204.png)
 
 # Step 2: Create KPIs
 
@@ -132,11 +132,13 @@
 
     • Click Apply to apply the changes.
 
+![image_alt]()
+
 # 4. Observe Results:
 
     • Review the line chart and note the day of the month with the lowest Order Total for Q1 2023.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/63a676670f8fb5b9500b726f9fabb67ae2250b65/Screenshot%204.png)
 
 # Step 4: Configure Q&A
 
