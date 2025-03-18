@@ -72,6 +72,7 @@
 
   • Review the column chart and note the Product Category with the lowest Order Total.
 
+![image_alt]()
 ![image_alt](https://github.com/DSgenes/Executive-Summary/blob/beae5640fd5370d160774fe130f486ccb0482d69/Screenshot%203.png)
 
 # Line Chart Visualization
