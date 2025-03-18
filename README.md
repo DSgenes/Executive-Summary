@@ -112,7 +112,7 @@
   
     • For the third KPI, drag City from the Customers table to the Value field well and OrderDate from the Sales table to the Trend Axis.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/277cf17d68c9a625d5d1cd12cb7e6bd7e11fb43b/Screenshot%207.png)
 
 # Step 3: Set Up Forecasting
 
