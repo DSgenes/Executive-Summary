@@ -90,7 +90,7 @@
 
    • Resize the Line Chart and position it below the Column Chart, next to the Table Visualization in the center of the canvas.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/63a676670f8fb5b9500b726f9fabb67ae2250b65/Screenshot%204.png)
 
 # Step 2: Create KPIs
 
