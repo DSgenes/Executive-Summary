@@ -104,6 +104,8 @@
 
     • Drag OrderDate from the Sales table to the Trend Axis field well.
 
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/0195e944dc480a628999c3a11a9c2126f3245164/Screenshot%206.png)
+
 # 3. Add Two More KPIs:
 
     • For the second KPI, drag Customer ID from the Customers table to the Value field well and OrderDate from the Sales table to the Trend Axis.
