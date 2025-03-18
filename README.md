@@ -60,6 +60,8 @@
 
    • In the Format tab, go to Columns > Colors and set the color to Dark Blue (#2D386D).
 
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/beae5640fd5370d160774fe130f486ccb0482d69/Screenshot%203.png)
+
 # 4. Add Tooltips:
 
    • Drag Order Quantity and Product Weight from the Sales table into the Tooltips field well.
@@ -72,8 +74,7 @@
 
   • Review the column chart and note the Product Category with the lowest Order Total.
 
-![image_alt]()
-![image_alt](https://github.com/DSgenes/Executive-Summary/blob/beae5640fd5370d160774fe130f486ccb0482d69/Screenshot%203.png)
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/1ea3cb65960e459a907630e237fd3de82dec4616/Screenshot%2011.png)
 
 # Line Chart Visualization
 
