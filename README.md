@@ -32,15 +32,17 @@
 
    • Expand the Sales table in the Fields pane and drag the following fields to the Columns well: Product ID, Product Name, Order ID, Order Status, and Order Total.
 
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/5c7a604c541b6c36fe2b38a44cdf91ea35163ae2/Screenshot%201.png)
+
 # 3. Format Table:
 
    • In the Format tab, choose the Minimal style preset from the Style dropdown.
 
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/cce402be006fc4a59134a564ab3072b48a7e3521/Screenshot%202.png)
+
 # 4. Resize and Position:
 
    • Resize the table visualization and position it on the right side of the canvas.
-
-   ![image_alt](https://github.com/DSgenes/Executive-Summary/blob/5c7a604c541b6c36fe2b38a44cdf91ea35163ae2/Screenshot%201.png)
 
 # Column Chart Visualization
 
