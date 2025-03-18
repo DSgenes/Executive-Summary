@@ -40,7 +40,7 @@
 
    • Resize the table visualization and position it on the right side of the canvas.
 
-   ![image_alt]()
+   ![image_alt](https://github.com/DSgenes/Executive-Summary/blob/5c7a604c541b6c36fe2b38a44cdf91ea35163ae2/Screenshot%201.png)
 
 # Column Chart Visualization
 
