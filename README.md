@@ -109,10 +109,12 @@
 # 3. Add Two More KPIs:
 
     • For the second KPI, drag Customer ID from the Customers table to the Value field well and OrderDate from the Sales table to the Trend Axis.
+
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/277cf17d68c9a625d5d1cd12cb7e6bd7e11fb43b/Screenshot%207.png)
   
     • For the third KPI, drag City from the Customers table to the Value field well and OrderDate from the Sales table to the Trend Axis.
 
-![image_alt](https://github.com/DSgenes/Executive-Summary/blob/277cf17d68c9a625d5d1cd12cb7e6bd7e11fb43b/Screenshot%207.png)
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/bb7246fa123d8b64bba3a40a6743b52ecc8fe7fd/Screenshot%208.png)
 
 # Step 3: Set Up Forecasting
 
@@ -162,7 +164,6 @@
  
       • Which Product Subcategory has the highest Product Weight?
 
-![image_alt]()
 
 ![image_alt]()
 
