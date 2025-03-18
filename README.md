@@ -132,7 +132,7 @@
 
     • Click Apply to apply the changes.
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/dbbf5f3e30b00f73b18ae111346950bbaf48c4f1/Screenshot%205.png)
 
 # 4. Observe Results:
 
