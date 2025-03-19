@@ -169,4 +169,4 @@
 
 ![image_alt](https://github.com/DSgenes/Executive-Summary/blob/c5a1bbcfc929189e4181bccff56d26e7fa206858/Screenshot%209.png)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Executive-Summary/blob/e7b2c5add06dfb3c7b07ef2373d6b5ee022c64fe/Screenshot%20.png)
